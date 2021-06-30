@@ -8,4 +8,5 @@ But there's no reason to worry, because we can easily fix that problem by making
 
 Components for Google Analytics, Google Meta Tags and Facebook Pixel for tracking your Svelte project.
 
+- [Routify](https://github.com/timoanttila/Svelte-Tracking/tree/main/routify)
 - [Sapper](https://github.com/timoanttila/Svelte-Tracking/tree/main/sapper)
