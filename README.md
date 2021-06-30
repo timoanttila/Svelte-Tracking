@@ -7,3 +7,5 @@ Normally, one can just add Google or Facebook script to main html or php page, b
 But there's no reason to worry, because we can easily fix that problem by making a component or two which updates the tracking scripts.
 
 Components for Google Analytics, Google Meta Tags and Facebook Pixel for tracking your Svelte project.
+
+- [Sapper](https://github.com/timoanttila/Svelte-Tracking/tree/main/sapper)
